@@ -16,8 +16,8 @@ First-year **Honours Computer Science + Business Administration** (double degree
 - Collaborating on the team's new **[launch application](https://github.com/waterloo-rocketry/launch-app)** (React + TypeScript + Electron), which supports rocket launch operations
 - Focus: embedded and software systems, data logging, launch software
 
-### 🧪 [PINN vs. Classical ODE Fitting](https://github.com/yelhawar/PINN-Projectile-Motion-EE) · Python, PyTorch, SciPy · *Completed*
-*Can a physics-informed neural network recover an unknown physical parameter from noisy data better than classical curve fitting?* (IB Physics Extended Essay)
+### 🧪 [PINN vs. Classical ODE Fitting](https://github.com/yelhawar/PINN-Projectile-Motion) · Python, PyTorch, SciPy · *Completed*
+*Can a physics-informed neural network recover an unknown physical parameter from noisy data better than classical curve fitting?* (Physics research)
 
 - Built a PINN in PyTorch that recovered the **drag coefficient** of a projectile from **60 noisy observations** to within **0.25%** of ground truth, compared with **12.4%** error for SciPy least-squares ODE fitting
 - Embedded the drag ODE directly in the loss function using **second-order autograd**, and made the drag coefficient a **trainable softplus parameter** so it always stays physically positive
