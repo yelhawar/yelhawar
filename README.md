@@ -65,7 +65,7 @@ I co-created the project and designed and built its **"motherboard" interface**.
 - **VEX Robotics: Lead Engineer (2022–2023).** Led the mechanical and electrical design; diagnosed drivetrain chain slippage and rewired the motors for torque and reliability.
 
 ### 🤝 Leadership
-- **STEM Revision Club: Leader (high school).** Helped run peer revision sessions, helping other students with math and science concepts.
+- **STEM Revision Club: Founder (2025–2026).** Founded a peer-led STEM revision club at the International School of Luxembourg and grew it from 1 to 20 students within its first month. I led the revision sessions in math and science.
 
 ### 🛠️ Tools I use
 **Languages:** Python · TypeScript · SQL · Racket · Lean · LaTeX
