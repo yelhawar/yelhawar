@@ -2,7 +2,7 @@
 
 First-year **Honours Computer Science + Business Administration** (double degree) student at the **University of Waterloo** and Wilfrid Laurier University. I like problems that sit between math, software, and the physical world: scientific machine learning, rocket software, data-heavy interfaces, and tools people actually use.
 
-- 🔭 Open to **Summer 2027 co-op / internship** roles in software, ML and data
+- 🔭 Open to **Summer 2027 co-op / internship** opportunities
 - 📚 Currently taking MATH 145 (Algebra, Advanced), MATH 147 (Calculus, Advanced) and CS 145 (Designing Functional Programs, Advanced)
 - 🌍 Languages: Arabic (native), English, French (fluent), German (proficient)
 - 📫 [linkedin.com/in/yelhawary](https://www.linkedin.com/in/yelhawary) · yahia.hawary@gmail.com
